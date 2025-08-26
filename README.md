@@ -1,4 +1,4 @@
-# Clinified - Clinical Management System
+# Clinified - Clinical Management System [Vibe Coding & Development in Progress]
 
 A modular, mobile-first, and offline-first clinical management system for solo practitioners and small clinics in India.
 
